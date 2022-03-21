@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/steel-iteration/static/css/main.b1855d9e.css",
-    "main.js": "/steel-iteration/static/js/main.81b2926e.js",
+    "main.js": "/steel-iteration/static/js/main.20a79200.js",
     "static/js/787.c0883b3a.chunk.js": "/steel-iteration/static/js/787.c0883b3a.chunk.js",
     "static/media/logo.svg": "/steel-iteration/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/steel-iteration/index.html",
     "main.b1855d9e.css.map": "/steel-iteration/static/css/main.b1855d9e.css.map",
-    "main.81b2926e.js.map": "/steel-iteration/static/js/main.81b2926e.js.map",
+    "main.20a79200.js.map": "/steel-iteration/static/js/main.20a79200.js.map",
     "787.c0883b3a.chunk.js.map": "/steel-iteration/static/js/787.c0883b3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1855d9e.css",
-    "static/js/main.81b2926e.js"
+    "static/js/main.20a79200.js"
   ]
 }
